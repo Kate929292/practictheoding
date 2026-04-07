@@ -1,2 +1,2 @@
 # practictheoding
-I just started to learn full stack developer
+I just started learning full stack development.
